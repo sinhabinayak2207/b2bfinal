@@ -4,6 +4,7 @@
 
 [build.environment]
   NETLIFY_NEXT_PLUGIN = "true"
+  NODE_VERSION = "18.18.2"
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
