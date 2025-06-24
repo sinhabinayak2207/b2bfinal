@@ -11,6 +11,9 @@
 [[plugins]]
   package = "@netlify/plugin-nextjs"
 
+[[plugins]]
+  package = "./netlify-tailwind-plugin.js"
+
 # For handling client-side routing
 [[redirects]]
   from = "/*"
