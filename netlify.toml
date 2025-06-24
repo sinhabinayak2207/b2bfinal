@@ -4,7 +4,7 @@
 
 [build.environment]
   NETLIFY_NEXT_PLUGIN = "true"
-  NODE_VERSION = "18.18.0"
+  NODE_VERSION = "18.17.1"
   NPM_FLAGS = "--legacy-peer-deps"
   NEXT_FORCE_EDGE_IMAGES = "true"
 
