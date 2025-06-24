@@ -11,7 +11,7 @@ module.exports = {
     const tempConfig = `
 module.exports = {
   plugins: {
-    'tailwindcss/nesting': {},
+    'postcss-nesting': {},
     tailwindcss: {},
     autoprefixer: {},
   }
